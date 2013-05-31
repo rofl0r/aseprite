@@ -1,12 +1,6 @@
-*.a
-*.o
-*.lib
-*.obj
-*.pdb
-*.dll
-*.ilk
-*.suo
-*.exe
-*.exe.manifest
-*.log
-*.res
+after fixing the build error, asesprite starts in a 320x200 pixel mode.
+
+the screen is so small that i can do *nothing*
+
+how am i supposed to switch to a higher resolution/ window size ?
+there's apparently no command line argument to achieve this.
